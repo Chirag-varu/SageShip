@@ -1,3 +1,48 @@
+# Client (Frontend)
+
+This folder contains the frontend application for the Internship/Industrial Training Placement Portal.
+
+## Overview
+The client is a modern web application built with TypeScript and Vite, providing an intuitive interface for students, placement officers, mentors, and employers to interact with the platform.
+
+## Features
+- Student profile management (resume, cover letter, skills)
+- Internship and training opportunity browsing
+- One-click application process
+- Real-time notifications and status tracking
+- Mentor approval workflows
+- Interview scheduling and calendar integration
+- Dashboards for students and placement cell
+- Secure, role-based access
+
+## Tech Stack
+- React + TypeScript
+- Vite
+- CSS Modules
+- Modern UI components
+
+## Getting Started
+1. Install dependencies:
+  ```sh
+  npm install
+  ```
+2. Start the development server:
+  ```sh
+  npm run dev
+  ```
+3. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## Project Structure
+- `src/` - Main source code
+- `components/` - Reusable UI components
+- `lib/` - Utility functions
+- `assets/` - Static assets
+
+## Contribution
+Feel free to open issues or submit pull requests to improve the frontend.
+
+---
+For backend setup, see the `server` folder.
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
