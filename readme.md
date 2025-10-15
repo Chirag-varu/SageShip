@@ -1,6 +1,6 @@
 # SageShip: Internship/Industrial Training with Placement Opportunity
 
-**Problem Statement ID:** 25106  
+**Problem Statement ID:** SIH25106  
 **Organization:** Government of Rajasthan  
 **Department:** Directorate of Technical Education (DTE)  
 **Category:** Software  
